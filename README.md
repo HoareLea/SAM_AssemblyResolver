@@ -1,15 +1,18 @@
-# SAM_Template
+[![Build (Windows)](https://github.com/SAM-BIM/SAM_AssemblyResolver/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SAM-BIM/SAM_Topologic/actions/workflows/build.yml)
+[![Installer (latest)](https://img.shields.io/github/v/release/SAM-BIM/SAM_Deploy?label=installer)](https://github.com/SAM-BIM/SAM_Deploy/releases/latest)
+
+# SAM_AssemblyResolver
 
 <a href="https://github.com/HoareLea/SAM_Excel"><img src="https://github.com/HoareLea/SAM/blob/master/Grasshopper/SAM.Core.Grasshopper/Resources/SAM_Small.png" align="left" hspace="10" vspace="6"></a>
 
 **SAM** is part of SAM Toolkit that is designed to help engneers to create Analytical Model. Welcome and let's make the opensource journey continue. :handshake:
 
 ## Resources
-* [Wiki](https://github.com/HoareLea/SAM/wiki)
+* [Wiki](https://github.com/SAM-BIM/SAM/wiki)
 
 ## Installing
 
-To install **SAM** from .exe just download and run [latest installer](https://github.com/HoareLea/SAM_Deploy/releases) otherwise rebuild using VS [SAM](https://github.com/HoareLea/SAM)
+To install **SAM** from .exe just download and run [latest installer](https://github.com/SAM-BIM/SAM_Deploy/releases) otherwise rebuild using VS [SAM](https://github.com/HoareLea/SAM)
 
 ## Licence ##
 
